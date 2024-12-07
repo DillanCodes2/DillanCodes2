@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dillan Garner</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate new developer from North Carolina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dillancodes2&label=Profile%20views&color=0e75b6&style=flat" alt="dillancodes2" /> </p>
